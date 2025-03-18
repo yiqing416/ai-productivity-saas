@@ -1,0 +1,10 @@
+# Node modules
+node_modules/
+#Logs
+*.log 
+#environment variables
+.env 
+#OS-specific junk
+.DS_Store
+#if using VSCode settings
+.vscode/
