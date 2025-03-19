@@ -2,9 +2,11 @@
 node_modules/
 #Logs
 *.log 
-#environment variables
+#environment variables (used to store secrets like API keys here later)
 .env 
 #OS-specific junk
 .DS_Store
 #if using VSCode settings
 .vscode/
+#nodemon auto-reload files
+*.pid
